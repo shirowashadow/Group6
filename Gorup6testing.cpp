@@ -6,6 +6,8 @@ int main() {
     cout<<"1.)Cagape\n";
     cout << "2.)Nahine\n";
     cout << "3.)Tepace\n";
-    cout << "4.)Musa";
+    cout << "4.)Musa\n";
+    cout << "hi love\n";
+    cout << "miss you\n ";
     cout<<"\nthe leader is paldo this day\n";
 }
