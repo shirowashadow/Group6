@@ -3,9 +3,9 @@
 using namespace std;
 int main() {
     cout << "Group 6:\n";
-    cout<<"1.)Cagape\n";
-    cout << "2.)Nahine\n";
-    cout << "3.)Tepace\n";
-    cout << "4.)Musa";
-    cout<<"\nthe leader is paldo this day\n";
+    cout<<"1.)Earl\n";
+    cout << "2.)Ryan\n";
+    cout << "3.)Weshly\n";
+    cout << "4.)Anthony\n";
+    cout<<"\nProfessional Yearner\n";
 }
